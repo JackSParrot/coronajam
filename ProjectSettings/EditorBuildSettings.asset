@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mainmenu.unity
+    guid: 1eec1ecdecea0554b97bc4d2f6873b98
+  - enabled: 1
+    path: Assets/Toon Gas Station/Scenes/Demo_Scene_1.unity
+    guid: 40ef6e60490d68541971945758777f58
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: e6d73fef435b5be49bb5f2d5b060f361,
       type: 2}
